@@ -6,13 +6,6 @@
   <a href="https://github.com/Vist233"><img src="https://img.shields.io/github/followers/Vist233?label=Follow&style=social"/></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open+Source+Enthusiast;AI+Agent+Builder"/>
-</p>
-
-
----
-
 ### 🚀 About Me
 
 - 🎓 Software Engineering in HeBAU
