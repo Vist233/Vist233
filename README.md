@@ -1,19 +1,48 @@
-🚀 Vist233's GitHub Profile
+<h1 align="center">Hi there, I'm <a href="https://vist233.github.io">Vist233</a> 👋</h1>
 
-👋 Hi, I'm Vist233, a passionate software developer with expertise in backend development, and AI-related applications.
+<p align="center">
+  <a href="https://vist233.github.io"><img src="https://img.shields.io/badge/website-online-brightgreen"/></a>
+  <a href="mailto:zhangyvjing@outlook.com"><img src="https://img.shields.io/badge/email-contact-blue"/></a>
+  <a href="https://github.com/Vist233"><img src="https://img.shields.io/github/followers/Vist233?label=Follow&style=social"/></a>
+</p>
 
-🎓 Studying Software Engineering, with a strong foundation in CS fundamentals & system design.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=Backend+Developer;Open+Source+Enthusiast;AI+Agent+Builder"/>
+</p>
+
 
 ---
-📫 Contact Me
 
-📩 Email: zhangyvjing@outlook.com
+### 🚀 About Me
 
-🌐 Website: [Vist233.github.io](https://vist233.github.io)  
+- 🎓 Software Engineering in HeBAU
+- 🔭 Focus: Backend Systems, AI Agents, Open Source Projects
+- 🌱 Learning how to **build tools that think and serve**
 
+---
 
-⚡ Always open to interesting discussions, collaborations, and new challenges! 🚀
-<!---
-Vist233/Vist233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
+
+```bash
+Languages:   Golang | Java | Python
+Databases:   SQLite | MySQL
+DevOps:      Docker | Git | GitHub Actions
+Tools:       VS Code | Git | Linux | Markdown | Pandoc
+```
+
+---
+
+### 🔥 Contributed TO
+
+📌 [**Infinite_Agents**](https://github.com/Vist233/Infinite_Agents)  
+
+> A multifunctional AI agent based on natural language, supporting the generation of scripts, abstract papers, and more.
+
+📌 [**automq**](https://github.com/Vist233/automq)  
+
+> Cloud native message queue, S3 replaces Kafka, supports automatic scaling.
+
+📌 [**Operating-Systems-Principles-and-Practice-Chinese**](https://github.com/Vist233/Operating-Systems-Principles-and-Practice-Chinese)  
+
+> Translate operating system textbooks into Chinese and use AI tools to improve accuracy and readability.
+
