@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack
 
 ```bash
-Languages:   Golang | Java | Python
+Languages:   Java | Python
 Databases:   SQLite | MySQL
 DevOps:      Docker | Git | GitHub Actions
 Tools:       VS Code | Git | Linux | Markdown | Pandoc
