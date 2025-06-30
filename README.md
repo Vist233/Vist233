@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://vist233.github.io"><img src="https://img.shields.io/badge/website-online-brightgreen"/></a>
   <a href="mailto:zhangyvjing@outlook.com"><img src="https://img.shields.io/badge/email-contact-blue"/></a>
+  <a href="http://vist233.github.io/blog"><img src="https://img.shields.io/badge/blog-visit-orange"/></a>
   <a href="https://github.com/Vist233"><img src="https://img.shields.io/github/followers/Vist233?label=Follow&style=social"/></a>
 </p>
 
@@ -11,6 +12,7 @@
 - 🎓 Software Engineering in HeBAU
 - 🔭 Focus: Backend Systems, AI Agents, Open Source Projects
 - 🌱 Learning how to **build tools that think and serve**
+- 📝 Blogging at [vist233.github.io/blog](http://vist233.github.io/blog)
 
 ---
 
