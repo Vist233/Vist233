@@ -10,11 +10,15 @@
 #### ♾️ [Infinity Agents](https://github.com/Vist233/Infinite_Agents)
 A multifunctional AI agent system designed to solve the problems in the ***Bioinfomatics***.
 
-#### 📱 [TabletBrowse Pro](https://github.com/Vist233/BrowserUseForPad)
+#### 🚩 School Hot Place Checker
+A place checker for now.
+
+#### 📱 [Tablet Browse Pro](https://github.com/Vist233/BrowserUseForPad)
 An browser plugin designed to enhance touch-based navigation on ***tablets***.
 
-#### 📓 [DiaryInfoRealizeSystem](https://github.com/Vist233/DiaryInfoRealizeSystem)
+#### 📓 [Diary Info Realize System](https://github.com/Vist233/DiaryInfoRealizeSystem)
 A note-taking system aimed to use the ***AI*** and protect the ***privacy***.
+
 
 ### 🚀 About Me
 - 🎓 Software Engineering at HeBAU
