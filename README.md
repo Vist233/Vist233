@@ -19,6 +19,9 @@ An browser plugin designed to enhance touch-based navigation on ***tablets***.
 #### 📓 [Diary Info Realize System](https://github.com/Vist233/DiaryInfoRealizeSystem)
 A note-taking system aimed to use the ***AI*** and protect the ***privacy***.
 
+#### 👯‍♀️ [Talker](https://github.com/Vist233/Talker)
+A Full Stack Social media platform.
+
 
 ### 🚀 About Me
 - 🎓 Software Engineering at HeBAU
