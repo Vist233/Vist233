@@ -15,4 +15,4 @@ A Full Stack Social media platform.
 ### 🚀 About Me
 - 🎓 HeBAU Bachelor
 - 📝 Blogging at [vist233.github.io/blog](http://vist233.github.io/blog)
-* 📧 Email: [zhangyvjing@outlook.com](mailto:zhangyvjing@outlook.com)
+- 📧 Email: [zhangyvjing@outlook.com](mailto:zhangyvjing@outlook.com)
