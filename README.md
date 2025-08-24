@@ -9,9 +9,6 @@ A multifunctional AI agent system designed to solve the problems in the ***Bioin
 #### 📓 [Diary Info Realize System](https://github.com/Vist233/DiaryInfoRealizeSystem)
 A note-taking system aimed to use the ***AI*** and protect the ***privacy***.
 
-#### 👯‍♀️ [Talker](https://github.com/Vist233/Talker)
-A Full Stack Social media platform.
-
 ### 🚀 About Me
 - 🎓 HeBAU Bachelor
 - 📝 Blogging at [vist233.github.io/blog](http://vist233.github.io/blog)
