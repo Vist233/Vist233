@@ -1,6 +1,6 @@
 <h1 align="center">Hi, there. I'm Vist233 👋</h1>
 
-#### 📱 [Tablet Browse Pro](https://github.com/Vist233/BrowserUseForPad)
+#### 📱 [Tablet Browse](https://github.com/Vist233/BrowserUseForPad)
 An browser plugin designed to enhance touch-based navigation on ***tablets***.
 
 #### ♾️ [Infinity Agents](https://github.com/Vist233/Infinite_Agents)
