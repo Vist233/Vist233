@@ -6,7 +6,7 @@ An browser plugin designed to enhance touch-based navigation on ***tablets***.
 #### ♾️ [Infinity Agents](https://github.com/Vist233/Infinite_Agents)
 A multifunctional AI agent system designed to solve the problems in the ***Bioinfomatics***.
 
-#### ♾️ [AI-Web-Searcher](https://github.com/Vist233/AI-Web-Searcher)
+#### 🧭 [AI-Web-Searcher](https://github.com/Vist233/AI-Web-Searcher)
 A mcp designed for search and fetch pages in web using AI.
 
 ### 🚀 About Me
