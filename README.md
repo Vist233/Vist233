@@ -25,3 +25,5 @@ Public work:
 - [infinity_Agents](https://github.com/Vist233/infinity_Agents) — applied AI workflow experiments for research work.
 
 Writing and design notes live at [zhangyvjing.com/blog](https://zhangyvjing.com/blog/).
+
+Social: [Zhihu](https://www.zhihu.com/people/vist-18) · [X](https://x.com/zhangyvjing233)
