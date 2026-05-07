@@ -1,73 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 620" role="img" aria-labelledby="title desc">
-  <title id="title">Vist233 personal system</title>
-  <desc id="desc">A monochrome editorial engineering banner with quiet grid structure and a lime signal color.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 360" role="img" aria-labelledby="title desc">
+  <title id="title">Product and technology in the AI era</title>
+  <desc id="desc">A minimal monochrome GitHub profile banner with one signal-lime accent.</desc>
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#e8e6df" stroke-opacity=".12" stroke-width="1"/>
+      <path d="M48 0H0V48" fill="none" stroke="#f2f2ef" stroke-opacity=".07" stroke-width="1"/>
     </pattern>
     <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#080808"/>
-      <stop offset=".56" stop-color="#10100f"/>
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset=".62" stop-color="#10100f"/>
       <stop offset="1" stop-color="#050505"/>
     </linearGradient>
-    <filter id="soft">
-      <feGaussianBlur stdDeviation="22"/>
-    </filter>
   </defs>
 
-  <rect width="1440" height="620" fill="url(#paper)"/>
-  <rect width="1440" height="620" fill="url(#grid)"/>
-  <circle cx="1048" cy="92" r="170" fill="#f2f2ef" opacity=".06" filter="url(#soft)"/>
+  <rect width="1440" height="360" fill="url(#paper)"/>
+  <rect width="1440" height="360" fill="url(#grid)"/>
 
-  <g stroke="#f2f2ef" stroke-opacity=".22" stroke-width="1">
-    <path d="M88 86H1352"/>
-    <path d="M88 532H1352"/>
-    <path d="M88 86V532"/>
-    <path d="M1352 86V532"/>
-    <path d="M902 86V532"/>
-    <path d="M88 416H1352"/>
+  <g stroke="#f2f2ef" stroke-opacity=".24" stroke-width="1">
+    <path d="M72 66H1368"/>
+    <path d="M72 294H1368"/>
+    <path d="M72 66V294"/>
+    <path d="M1368 66V294"/>
+    <path d="M72 204H1368"/>
   </g>
 
-  <g transform="translate(104,106)">
-    <rect x="0" y="0" width="11" height="11" fill="#d8ff3e"/>
-    <text x="28" y="11" fill="#aaa79f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">PERSONAL DESIGN SYSTEM / VIST233</text>
+  <g transform="translate(96 90)">
+    <rect x="0" y="0" width="12" height="12" fill="#d8ff3e"/>
+    <text x="30" y="12" fill="#a7a7a1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">VIST233 / AI ERA</text>
   </g>
 
-  <g transform="translate(104,164)">
-    <text fill="#f2f2ef" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="650" font-size="112" letter-spacing="-3">
-      <tspan x="0" y="106">Quiet</tspan>
-      <tspan x="0" y="214">systems,</tspan>
-      <tspan x="0" y="322" fill="none" stroke="#f2f2ef" stroke-width="1.5">verifiable work.</tspan>
+  <g transform="translate(96 136)">
+    <text fill="#f2f2ef" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="650" font-size="92" letter-spacing="0">
+      <tspan x="0" y="78">PRODUCT</tspan>
+      <tspan x="470" y="78" fill="#d8ff3e">×</tspan>
+      <tspan x="540" y="78" fill="none" stroke="#f2f2ef" stroke-width="1.4">TECHNOLOGY</tspan>
     </text>
   </g>
 
-  <g transform="translate(930,126)">
-    <rect x="0" y="0" width="344" height="248" fill="#121211" stroke="#f2f2ef" stroke-opacity=".24"/>
-    <path d="M0 164C72 138 132 146 198 124C253 106 296 104 344 118V248H0Z" fill="#f2f2ef" opacity=".92"/>
-    <path d="M0 146C64 126 117 132 176 112C238 91 286 82 344 96V248H0Z" fill="#d7e3e8" opacity=".62"/>
-    <g stroke="#f2f2ef" stroke-opacity=".36">
-      <path d="M62 42V188"/>
-      <path d="M181 22V176"/>
-      <path d="M285 68V158"/>
-    </g>
-    <rect x="18" y="18" width="9" height="9" fill="#d8ff3e"/>
-    <text x="36" y="27" fill="#d9d9d2" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.2">WINTER / STRUCTURE / EMPTY FIELD</text>
+  <g transform="translate(96 248)">
+    <path d="M0 0H600" stroke="#f2f2ef" stroke-opacity=".28"/>
+    <text x="0" y="34" fill="#d7e3e8" font-family="Inter, Helvetica, Arial, sans-serif" font-size="24" font-weight="360">Balance, evidence, and useful systems.</text>
   </g>
 
-  <g transform="translate(930,418)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
-    <text fill="#aaa79f">
-      <tspan x="0" y="0">01 PROBLEM DEFINITION</tspan>
-      <tspan x="0" y="30">02 TOOL BOUNDARIES</tspan>
-      <tspan x="0" y="60">03 STRUCTURED OUTPUT</tspan>
-      <tspan x="0" y="90">04 PUBLIC EVIDENCE</tspan>
-    </text>
-    <rect x="286" y="-12" width="12" height="12" fill="#d8ff3e">
-      <animate attributeName="opacity" values="1;.36;1" dur="3.2s" repeatCount="indefinite"/>
-    </rect>
-  </g>
-
-  <g transform="translate(104,476)">
-    <path d="M0 0H610" stroke="#f2f2ef" stroke-opacity=".28"/>
-    <text x="0" y="42" fill="#d7e3e8" font-family="Inter, Helvetica, Arial, sans-serif" font-size="25" font-weight="360">AI product engineer. Agent backend. Research automation. Calm design.</text>
+  <g transform="translate(1110 242)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a7a7a1">
+    <text x="0" y="0">01 PRODUCT JUDGMENT</text>
+    <text x="0" y="28">02 TECHNICAL SYSTEMS</text>
+    <rect x="198" y="-10" width="12" height="12" fill="#d8ff3e"/>
   </g>
 </svg>
