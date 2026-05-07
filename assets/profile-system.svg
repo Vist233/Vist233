@@ -1,49 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 360" role="img" aria-labelledby="title desc">
-  <title id="title">Product and technology in the AI era</title>
-  <desc id="desc">A minimal monochrome GitHub profile banner with one signal-lime accent.</desc>
+  <title id="title">AI Product Engineering</title>
+  <desc id="desc">A white editorial engineering banner with khaki structure, thin lines, and a signal-lime accent.</desc>
   <defs>
     <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#f2f2ef" stroke-opacity=".07" stroke-width="1"/>
+      <path d="M48 0H0V48" fill="none" stroke="#111111" stroke-opacity=".055" stroke-width="1"/>
     </pattern>
-    <linearGradient id="paper" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0" stop-color="#050505"/>
-      <stop offset=".62" stop-color="#10100f"/>
-      <stop offset="1" stop-color="#050505"/>
-    </linearGradient>
+    <filter id="grain">
+      <feTurbulence type="fractalNoise" baseFrequency=".72" numOctaves="2" seed="18"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 .045"/>
+      </feComponentTransfer>
+    </filter>
   </defs>
 
-  <rect width="1440" height="360" fill="url(#paper)"/>
+  <rect width="1440" height="360" fill="#f1f0ec"/>
   <rect width="1440" height="360" fill="url(#grid)"/>
+  <rect width="1440" height="360" filter="url(#grain)" opacity=".5"/>
 
-  <g stroke="#f2f2ef" stroke-opacity=".24" stroke-width="1">
-    <path d="M72 66H1368"/>
-    <path d="M72 294H1368"/>
-    <path d="M72 66V294"/>
-    <path d="M1368 66V294"/>
-    <path d="M72 204H1368"/>
+  <g fill="#c9c0aa" opacity=".34">
+    <rect x="118" y="74" width="238" height="172"/>
+    <rect x="744" y="48" width="236" height="240"/>
+    <rect x="1038" y="104" width="286" height="154"/>
+  </g>
+  <g fill="#ffffff" opacity=".62">
+    <rect x="246" y="132" width="302" height="112"/>
+    <rect x="636" y="92" width="162" height="212"/>
   </g>
 
-  <g transform="translate(96 90)">
-    <rect x="0" y="0" width="12" height="12" fill="#d8ff3e"/>
-    <text x="30" y="12" fill="#a7a7a1" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">VIST233 / AI ERA</text>
+  <path d="M70 286C250 238 392 256 560 220C766 176 988 190 1370 142" fill="none" stroke="#d7e3e8" stroke-width="34" stroke-linecap="round" opacity=".78"/>
+
+  <g stroke="#111111" stroke-width="1">
+    <path d="M72 54V304" opacity=".28"/>
+    <path d="M440 36V326" opacity=".2"/>
+    <path d="M680 86V306" opacity=".16"/>
+    <path d="M1164 70V296" opacity=".26"/>
+    <path d="M84 306H1356" opacity=".22"/>
   </g>
 
-  <g transform="translate(96 136)">
-    <text fill="#f2f2ef" font-family="Inter, Helvetica, Arial, sans-serif" font-weight="650" font-size="92" letter-spacing="0">
-      <tspan x="0" y="78">PRODUCT</tspan>
-      <tspan x="470" y="78" fill="#d8ff3e">×</tspan>
-      <tspan x="540" y="78" fill="none" stroke="#f2f2ef" stroke-width="1.4">TECHNOLOGY</tspan>
+  <g transform="translate(96 76)">
+    <rect x="0" y="0" width="13" height="13" fill="none" stroke="#9db900" stroke-width="3"/>
+    <text x="32" y="13" fill="#6e6c66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2">VIST233 / AI ERA</text>
+  </g>
+
+  <g transform="translate(96 122)">
+    <text fill="#111111" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-weight="670" font-size="86" letter-spacing="0">
+      <tspan x="0" y="78">AI Product</tspan>
+      <tspan x="0" y="164" fill="none" stroke="#111111" stroke-width="1.35">Engineering</tspan>
     </text>
   </g>
 
-  <g transform="translate(96 248)">
-    <path d="M0 0H600" stroke="#f2f2ef" stroke-opacity=".28"/>
-    <text x="0" y="34" fill="#d7e3e8" font-family="Inter, Helvetica, Arial, sans-serif" font-size="24" font-weight="360">Balance, evidence, and useful systems.</text>
+  <g transform="translate(98 316)">
+    <rect x="0" y="-9" width="11" height="11" fill="#d8ff3e"/>
+    <path d="M28 -4H520" stroke="#111111" stroke-opacity=".28"/>
+    <text x="548" y="0" fill="#6e6c66" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1.2">PRODUCT JUDGMENT / TECHNICAL SYSTEMS</text>
   </g>
 
-  <g transform="translate(1110 242)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#a7a7a1">
-    <text x="0" y="0">01 PRODUCT JUDGMENT</text>
-    <text x="0" y="28">02 TECHNICAL SYSTEMS</text>
-    <rect x="198" y="-10" width="12" height="12" fill="#d8ff3e"/>
-  </g>
+  <rect x="1242" y="246" width="18" height="18" fill="#d8ff3e"/>
+  <path d="M1242 104V246" stroke="#d8ff3e" stroke-width="3"/>
 </svg>

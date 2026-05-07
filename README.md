@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zhangyvjing.com/">
-    <img src="./assets/profile-system.svg" alt="Product and technology in the AI era" width="100%">
+    <img src="./assets/profile-system.svg" alt="AI Product Engineering" width="100%">
   </a>
 </p>
 
@@ -14,9 +14,9 @@
   <a href="mailto:zhangyvjing@outlook.com">Contact</a>
 </p>
 
-## Vist233
+## AI Product Engineering
 
-I work on the balance between product judgment and technical systems in the AI era.
+I focus on AI Product Engineering: product judgment, technical systems, and useful agents in the AI era.
 
 Public work:
 
